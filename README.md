@@ -14,8 +14,6 @@
 
 The project is organized in a monorepo and consists of several decoupled packages:
 
-- [starter](https://github.com/presentator/presentator-starter)
-- [api](https://github.com/presentator/presentator-api)
 - [spa](https://github.com/presentator/presentator-spa)
 - [js-client](https://github.com/presentator/presentator-js-client)
 - [docker](https://github.com/presentator/presentator-docker)
